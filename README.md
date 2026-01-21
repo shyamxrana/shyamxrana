@@ -1,5 +1,5 @@
 #  About Me:
-🚀 Full Stack Developer (MERN) & Digital Marketer
+🚀 Full Stack Developer (MERN Stack) 
 I’m a passionate Full Stack Web Developer with hands-on experience in building scalable, high-performance, and SEO-optimized websites. I love transforming ideas into real-world digital solutions that deliver measurable business growth. <br><br>
  I’m currently working on  <br>Building full-stack projects using Vite and Next.js for the frontend, Node.js for the backend, and exploring AI tools for productivity and side projects.<br><br> I’m looking to collaborate on  <br>Frontend or full-stack projects built with Vite, Next.js, and Node.js, including open-source contributions and simple AI-powered tools.<br><br> I’m looking for help with  <br>Improving backend architecture, API design, and building scalable real-world applications.<br><br> I’m currently learning  <br>Advanced Next.js, Node.js, production-ready best practices, and practical use of AI tools.<br><br> Ask me about  <br>Full-stack development, building projects from scratch, and project-based learning.<br><br> Fun fact  <br>I learn faster by building and breaking things than by watching tutorials.<br>
 
